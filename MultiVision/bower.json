@@ -5,5 +5,9 @@
   "license": "ISC",
   "homepage": "https://github.com/githubUser919/ps-mean2",
   "moduleType": [],
-  "private": true
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "toastr": "^2.1.2"
+  }
 }
