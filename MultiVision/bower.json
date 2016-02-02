@@ -1,0 +1,9 @@
+{
+  "name": "MultiVision",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/githubUser919/ps-mean2",
+  "moduleType": [],
+  "private": true
+}
