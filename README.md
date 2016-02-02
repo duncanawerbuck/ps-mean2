@@ -1,0 +1,5 @@
+# ps-mean2
+2016 attempt of completing Joe Eames' Pluralsight Course: "Building AngularJS and Node.js Apps with the MEAN Stack"
+
+## To Do Next
+* Create package.json and install express and jade
